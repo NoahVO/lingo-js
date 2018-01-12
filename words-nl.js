@@ -1,4 +1,4 @@
-var words = [
+var wordsNL = [
 	"appel",
 	"aldus",
 	"afwas",
@@ -117,8 +117,8 @@ var words = [
 	"files",
 	"forel",
 	"films",
-	"feest",
-	"fruit",
+		"feest",
+		"fruit",
 	"falen",
 	"flora",
 	"fauna",
@@ -347,7 +347,6 @@ var words = [
 	"stook",
 	"steek",
 	"schep",
-	"spijs",
 	"stoep",
 	"shirt",
 	"samen",
