@@ -7,7 +7,7 @@
 	headScript.insertBefore(script, headScript.childNodes[3]);
 	headScript.parentNode.insertBefore(script, headScript.nextSibling);
 
-	head.innerHTML += "<style>table, th, td {border: 1px solid black; border-collapse: collapse;} .correct {background-color: orange;} .place {border-radius: 50%;background-color: yellow;}input {width: 50px;height: 50px;font-size: 40px;text-align: center;}button {height: 56px;font-size: 30px;}.field {width: 56px;}.button {width: 103.317px;}</style>"
+	head.innerHTML += "<style>table, th, td {border: 1px solid black; border-collapse: collapse;} .correct {border-radius: 50%;background-color: #d82424;} .place {border-radius: 50%;background-color: yellow;}input {width: 50px;height: 50px;font-size: 40px;text-align: center;}button {height: 56px;font-size: 30px;}.field {width: 56px;}.button {width: 103.317px;}</style>"
 })() // Initializing
 
 var gameId = 0;
